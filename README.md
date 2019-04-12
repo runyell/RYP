@@ -1,2 +1,2 @@
-# RYP-
+# RYP
 RunYellPong
